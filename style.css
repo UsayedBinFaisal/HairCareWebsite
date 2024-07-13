@@ -1,0 +1,40 @@
+.navbar-logo {
+    display: flex;
+    align-items: center;
+}
+.navbar{
+    background-color: white !important;
+}
+.hero-section{
+    margin-top: 50px;
+    background-color: #2A201C;
+    padding-bottom: 50px;
+}
+.cards-section{
+    margin-top: 50px;
+}
+.hair-problem{
+    background-color:#2A201C ;
+}
+.contact-info{
+    display: flex;
+}
+.contact-section .bg-primary {
+    background-color: #2a201c !important;
+  }
+  .contact-section .fa {
+    color: #2a201c !important;
+  }
+  .contact-section .btn-primary {
+    background-color: #2a201c !important;
+    border-color: #2a201c !important;
+  }
+  .footer{
+    background-color: #2a201c !important;
+  }
+svg{
+  color: #2A201C;
+}
+.carousel{
+  margin-top: -50px;
+}
